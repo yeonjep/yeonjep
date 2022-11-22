@@ -3,7 +3,7 @@
 ### 🌱 I’m currently learning computer science engineering at KNU.
 
 
-## Tech Stack
+#### Tech Stack
 
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -14,7 +14,7 @@
 
 </div>
 
-## Used Languages
+#### Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjep&layout=compact)](https://github.com/yeonjep/github-readme-stats)
 
