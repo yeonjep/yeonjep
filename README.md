@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Yeonje Park!
 
-### 🌱 I’m currently learning computer science engineering at KNU.
+#### 🌱 I’m currently learning computer science engineering at KNU.
 
 
 ## Tech Stack
