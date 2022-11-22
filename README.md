@@ -18,9 +18,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjep&layout=compact)](https://github.com/yeonjep/github-readme-stats)
 
 ## Contact Me
-<div>
-<a href="https://www.instagram.com/dizaine_jsyw/">Instagram</a>
-</div>
 
-<h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
 <a href="https://www.instagram.com/dizaine_jsyw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://www.instagram.com/dizaine_jsyw/"/></a>  <a href="mailto:yeonje8771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonje8771@gmail.com"/></a>
