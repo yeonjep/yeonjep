@@ -1,3 +1,4 @@
+<p align="center">
 ## Hi there 👋 I'm Yeonje Park!
 
 #### 🌱 I’m currently learning computer science engineering at KNU.
@@ -21,4 +22,4 @@
 <a href="https://www.instagram.com/dizaine_jsyw/">Instagram</a>
 </div>
 
-
+</p>
