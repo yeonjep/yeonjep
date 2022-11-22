@@ -1,10 +1,10 @@
-### Hi there 👋 I'm Yeonje Park!
+## Hi there 👋 I'm Yeonje Park!
 
-#### 🌱 I’m currently learning computer science engineering at KNU.
+### 🌱 I’m currently learning computer science engineering at KNU.
 
 
-#### [tech stack]
-
+### Tech Stack
+---------
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
