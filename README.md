@@ -14,3 +14,5 @@
 
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjep&layout=compact)](https://github.com/yeonjep/github-readme-stats)
+
