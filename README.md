@@ -4,7 +4,7 @@
 #### 🌱 I’m currently learning computer science engineering at KNU.
 
 
-## 🛠Skill
+## 🛠 Skill
 <div>
 <img src="https://img.shields.io/badge/C-4BB749?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
@@ -15,9 +15,9 @@
 
 </div>
 
-## 💬Used Languages
+## 💬 Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjep&layout=compact)](https://github.com/yeonjep/github-readme-stats)
 
-## 💫Contact Me
+## 💫 Contact Me
 
 <a href="https://www.instagram.com/dizaine_jsyw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dizaine_jsyw/"/></a>  <a href="mailto:yeonje8771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonje8771@gmail.com"/></a>
