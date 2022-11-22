@@ -1,5 +1,5 @@
-<p align="center">
-## Hi there 👋 I'm Yeonje Park!
+
+<p align="center">## Hi there 👋 I'm Yeonje Park!
 
 #### 🌱 I’m currently learning computer science engineering at KNU.
 
