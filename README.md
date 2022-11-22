@@ -3,7 +3,8 @@
 - Hi there 👋 I'm Yeonje Park who wants to be a front-end developer!
 - I’m currently learning computer science engineering at KNU.
 
---------
+-----------
+
 ## 🛠 Skill
 <div>
 <img src="https://img.shields.io/badge/C-4BB749?style=flat-square&logo=C&logoColor=white"/>
@@ -14,7 +15,8 @@
 <img src="https://img.shields.io/badge/Java-FFE200?style=flat-square&logoColor=white"/>
 
 </div>
-----------
+------------
+
 
 ## 💬 Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjep&layout=compact)](https://github.com/yeonjep/github-readme-stats)
