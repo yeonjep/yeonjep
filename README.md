@@ -4,7 +4,7 @@
  Hi there 👋 <br>
  I'm Yeonje Park who wants to be a developer!
 
- 🏫 Kyungpook National University
+ 🏫 Kyungpook National University <br>
     School of Computer Science and Engineering
 
 <p align="center">
