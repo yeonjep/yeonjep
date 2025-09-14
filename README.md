@@ -1,6 +1,6 @@
 <div align="center">
 
-## 💎 profile
+# 💎 Yeonje's repository
  Hi there 👋 <br>
  I'm Yeonje Park who wants to be a developer!
 
