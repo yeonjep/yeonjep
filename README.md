@@ -3,9 +3,11 @@
 ## 💎 profile
  Hi there 👋 I'm Yeonje Park who wants to be a developer!
  I’m currently learning computer science engineering from KNU.
-
+<p align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+one+commit+at+a+time;)](https://git.io/typing-svg)
 
+</p>
 -----------
 
 ## 🛠 Skill
