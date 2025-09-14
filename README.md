@@ -4,7 +4,7 @@
  Hi there 👋 I'm Yeonje Park who wants to be a developer!
  I’m currently learning computer science engineering from KNU.
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+one+commit+at+a+time;)](https://git.io/typing-svg)
 
 -----------
 
