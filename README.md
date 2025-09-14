@@ -11,7 +11,7 @@
 </p>
 -----------
 
-## 🛠 Skill
+## 📚 Tech stack 📚
 <div>
 <img src="https://img.shields.io/badge/C-4BB749?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/Java-FFE200?style=flat-square&logoColor=white"/>
 
 </div>
+
+## 🛠 Tools 🛠
 
 ------------
 
