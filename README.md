@@ -38,7 +38,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-------------
+
 
 <br>
 
@@ -46,14 +46,14 @@
 ![Yeonje's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjep&show_icons=true&theme=radical)
 
 
---------
+
 <br>
 
 ## 💬 Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjep&layout=compact)](https://github.com/yeonjep/github-readme-stats)
 
 
------------
+
 <br>
 
 ## 💫 Contact 
