@@ -11,7 +11,9 @@
 </p>
 - <br>
 🏫 Kyungpook National University <br>
-    School of Computer Science and Engineering
+    School of Computer Science and Engineering <br><br>
+    -
+    
 
 <p align="center">
 
