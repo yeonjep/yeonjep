@@ -1,4 +1,4 @@
-
+<div align="center">
 
 ## 💎 profile
 - Hi there 👋 I'm Yeonje Park who wants to be a developer!
@@ -36,3 +36,5 @@
 ## 💫 Contact 
 
 <a href="https://www.instagram.com/dizaine_jsyw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dizaine_jsyw/"/></a>  <a href="mailto:yeonje8771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonje8771@gmail.com"/></a>
+
+</div>
