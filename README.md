@@ -23,12 +23,11 @@
 ## 💬 Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjep&layout=compact)](https://github.com/yeonjep/github-readme-stats)
 
-![Yeonje's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjep&show_icons=true&theme=radical)
+
 
 --------
 ## 🔷️ Git Stats
-
-[![yeonje's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjep)](https://github.com/yeonjep/github-readme-stats)
+![Yeonje's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjep&show_icons=true&theme=radical)
 
 
 -----------
