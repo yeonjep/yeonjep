@@ -1,7 +1,7 @@
 
 ## 💎 profile
-- Hi there 👋 I'm Yeonje Park who wants to be a front-end developer!
-- I’m currently learning computer science engineering at KNU.
+- Hi there 👋 I'm Yeonje Park who wants to be a developer!
+- I’m currently learning computer science engineering from KNU.
 
 -----------
 
