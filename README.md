@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+one+commit+at+a+time;)](https://git.io/typing-svg)
 
 </p>
-- <br>
+- <br><br>
 🏫 Kyungpook National University <br>
     School of Computer Science and Engineering <br><br>
     -
