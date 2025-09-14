@@ -4,15 +4,16 @@
  Hi there 👋 <br>
  I'm Yeonje Park who wants to be a developer!
 
- 🏫 Kyungpook National University <br>
-    School of Computer Science and Engineering
-
-<p align="center">
+ 
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+one+commit+at+a+time;)](https://git.io/typing-svg)
 
 </p>
------------
+- <br>
+🏫 Kyungpook National University <br>
+    School of Computer Science and Engineering
+
+<p align="center">
 
 ## 📚 Tech stack 📚
 <div>
