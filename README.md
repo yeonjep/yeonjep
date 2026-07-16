@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+one+commit+at+a+time;)](https://git.io/typing-svg)
+
 
 
     -
